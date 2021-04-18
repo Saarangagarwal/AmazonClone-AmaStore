@@ -1,6 +1,10 @@
 Checkout the project at: https://ama-store1.web.app/
 
-Note: Please don't use your real card details, else you will be really charged for your imaginary purchase. 
+Note: Please don't use your real card details, else you will be charged for your imaginary purchase. 
+
+
+
+
 
 
 
