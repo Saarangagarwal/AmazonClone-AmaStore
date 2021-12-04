@@ -1,3 +1,14 @@
+Checkout the project at: https://ama-store1.web.app/
+
+Note: Please don't use your real card details, else you will be charged for your imaginary purchase. 
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
