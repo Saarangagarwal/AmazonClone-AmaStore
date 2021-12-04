@@ -53,7 +53,10 @@ function Login() {
                     <button type='submit' onClick={signIn} className='login__signInButton'>Sign In</button>
                 </form>
 
-                <p> By signing in, you agree to our terms and conditions of use.</p>
+                <p> By signing in, you agree to our terms and conditions of use. Note: This is a side project for eductional
+                    purposes only. There is no intention to interfere with Amazon or anyone else. Please use the website at 
+                    your own risk.
+                </p>
 
                 <button onClick={register} className='login__registerInButton'>Create your AmaStore Account</button>
 
